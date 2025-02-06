@@ -26,7 +26,7 @@ Ensure you have the following installed:
 ### 🏃‍♂️ Quick Start
 Clone the repository and navigate to the project directory:
 ```sh
-$ git clone https://github.com/your-repo/AI-powered-Coding-Assistant.git
+$ git clone https://github.com/VaralaVishal/AI-powered-Coding-Assistant.git
 $ cd AI-powered-Coding-Assistant
 ```
 
@@ -73,19 +73,18 @@ AI-powered-Coding-Assistant comes with a sleek **dark mode UI**:
 ---
 
 ## 🤝 Contributing
-We welcome contributions! Feel free to submit issues or pull requests.
+ We'd love to have you on board:
 
----
+Fork the repository.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Create a new branch with a descriptive name.
 
----
+Make your changes and commit them with clear commit messages.
 
-## 🌎 Connect with Us
-- 🐙 GitHub: [Your Repo](https://github.com/your-repo)
-- 📝 Blog: [Your Blog](https://yourblog.com)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
+Push your changes to your forked repository.
+
+Create a pull request, and we'll take it from there.
+
 
 💡 **Happy Coding!** 💻🚀
 
