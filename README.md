@@ -74,16 +74,11 @@ AI-powered-Coding-Assistant comes with a sleek **dark mode UI**:
 
 ## 🤝 Contributing
  We'd love to have you on board:
-
-Fork the repository.
-
-Create a new branch with a descriptive name.
-
-Make your changes and commit them with clear commit messages.
-
-Push your changes to your forked repository.
-
-Create a pull request, and we'll take it from there.
+- Fork the repository.
+- Create a new branch with a descriptive name.
+- Make your changes and commit them with clear commit messages.
+- Push your changes to your forked repository.
+- Create a pull request, and we'll take it from there.
 
 
 💡 **Happy Coding!** 💻🚀
