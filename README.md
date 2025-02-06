@@ -1,4 +1,4 @@
-🧠 AI-powered-Coding-Assistant
+##🧠 AI-powered-Coding-Assistant
 
 🚀 Your AI Pair Programmer with Debugging Superpowers
 
